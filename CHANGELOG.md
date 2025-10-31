@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.5.2](https://github.com/jdx/usage/compare/v2.5.1..v2.5.2) - 2025-10-31
+
+### 📦️ Dependency Updates
+
+- lock file maintenance by [@renovate[bot]](https://github.com/renovate[bot]) in [#359](https://github.com/jdx/usage/pull/359)
+- update rust crate clap to v4.5.51 by [@renovate[bot]](https://github.com/renovate[bot]) in [#361](https://github.com/jdx/usage/pull/361)
+- update rust crate tera to v1.20.1 by [@renovate[bot]](https://github.com/renovate[bot]) in [#362](https://github.com/jdx/usage/pull/362)
+
 ## [2.5.1](https://github.com/jdx/usage/compare/v2.5.0..v2.5.1) - 2025-10-26
 
 ### 🐛 Bug Fixes
